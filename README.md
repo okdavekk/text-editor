@@ -1,9 +1,27 @@
 # 19 Progressive Web Applications (PWA): Text Editor
 
+## Table of Contents
+- [Resources](#resources)
+
+- [Installation Instructions](#installation)
+
+- [Project Description](#project-description)
+
+- [Authors and Acknowledgement](#authors-and-acknowledgement)
+
+## Resources
+- [REPOSITORY](https://github.com/okdavekk/text-editor)
+
 - [HEROKU](https://desolate-beyond-67319.herokuapp.com/)
 
+## Installation
+Run these commands in the root of the directory:
 
-## Your Task
+- npm i
+- npm run start
+
+## Project Description
+### Your Task
 
 As you have progressed through this course, you have put together a number of impressive projects that you can show off to potential employers. This project is no exception; in fact, it features some of the most impressive expressions of the concepts you have learned so far.
 
@@ -13,12 +31,12 @@ To build this text editor, you will start with an existing application and imple
 
 You will deploy this full-stack application to Heroku using the [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
 
-## User Story
+### User Story
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 
-## Acceptance Criteria
+### Acceptance Criteria
 GIVEN a text editor web application
 
 - WHEN I open my application in my editor THEN I should see a client server folder structure
@@ -45,8 +63,7 @@ GIVEN a text editor web application
 
 - WHEN I deploy to Heroku THEN I should have proper build scripts for a webpack application
 
-## Mock-Up
-
+### Mock-Up
 The following animation demonstrates the application functionality:
 
 ![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./Assets/00-demo.gif)
@@ -63,19 +80,6 @@ The following image shows the application's IndexedDB storage:
 
 ![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
 
-## Grading Requirements
-
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
-
-This Challenge is graded based on the following criteria:
 
 ### Technical Acceptance Criteria: 40%
 
@@ -114,26 +118,3 @@ This Challenge is graded based on the following criteria:
 * Application user interface style is clean and polished
 
 * Application resembles the mock-up functionality provided in the Challenge instructions
-
-### Repository Quality: 13%
-
-* Repository has a unique name
-
-* Repository follows best practices for file structure and naming conventions
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages
-
-* Repository contains quality README file with description, screenshot, and link to deployed application
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application
-
-* The URL of the GitHub repository, with a unique name and a README describing the project
-
-- - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
