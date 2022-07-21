@@ -48,6 +48,15 @@ module.exports = () => {
             destination: path.join('assets', 'icons'),
           },
         ],
+
+       runttimeCaching: [{
+          handler: 'ChacheFirst',
+          options: {
+            chacheName: 'cache'
+          },
+
+        }]
+
       }),
     ],
 
