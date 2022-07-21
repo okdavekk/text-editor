@@ -13,7 +13,7 @@
 - [REPOSITORY](https://github.com/okdavekk/text-editor)
 
 - [HEROKU](https://desolate-beyond-67319.herokuapp.com/)
-
+*** Refresh the app a couple times to clear errors and load everything up.   
 ## Installation
 Run these commands in the root of the directory:
 
